@@ -14,7 +14,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        FirstPodVersionNumber.prinMe()
+        Util.printMe()
         
         // Do any additional setupprinMe after loading the view, typically from a nib.
     }
