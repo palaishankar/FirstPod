@@ -12,4 +12,8 @@ public class Util {
     public class func printMe() {
         print("Success !!!")
     }
+    
+    public class func printMe1() {
+        print("Success 1111!!!")
+    }
 }
